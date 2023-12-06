@@ -36,3 +36,10 @@ to change the branch use git checkout __(then branch name ) here there is no nee
 use of diff and branch name to check the difference between them.
 
 we can use git merge to merge the file locally. then push it to the github.
+
+just have write git pull after merging in the github
+
+to delete the branch locally git branch -d __ (branch name)
+
+THERE ARE FEW THINGS TO ADD I WILL ADD AFTERWARDS DIRECTLY IN THE GITHUB
+
