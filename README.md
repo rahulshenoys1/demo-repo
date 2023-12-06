@@ -21,3 +21,14 @@ if u need individual files to add then u can name those files.
 use of clear command to clear the terminal.
 
 use of git push is to send the code from local to the github website.
+
+
+## Branching 
+
+use the commands below
+
+git checkout -b ___(name of the brancb and start with the feature) create a new branch.
+
+to check which branch are u one then command should be git branch it will highlight by * 
+
+to change the branch use git checkout __(then branch name ) here there is no need to use -b it is used to create new branch.
